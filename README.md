@@ -1,6 +1,6 @@
 Authors: ILANGO Guy , Cherchame Emeline  
 Version : 1.3  
-Credit : ILANGO G., CHERCHAME E., CADEL SIX S.   
+Credit : Anses ILANGO G., CHERCHAME E., CADEL SIX S.   
 -----------------------------------------------
 salMOnella Download gEnome Serotype sT  
  <b>MODEST
