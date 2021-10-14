@@ -1,4 +1,4 @@
-Author: ILANGO Guy  
+Authors: ILANGO Guy , Cherchame Emeline  
 Version : 1.3  
 Credit : ILANGO G., CHERCHAME E., CADEL SIX S.   
 -----------------------------------------------
