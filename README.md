@@ -1,10 +1,11 @@
-Authors: ILANGO Guy , Cherchame Emeline  
-Version : 1.3  
+<b>Authors: ILANGO Guy , Cherchame Emeline  
+<b>Version : 1.3  
 
-Affiliation: Food Safety Laboratory - ANSES Maisons Alfort (France)
+<b>Affiliation: Food Safety Laboratory - ANSES Maisons Alfort (France)
 
 Credit : Anses ILANGO G., CHERCHAME E., CADEL SIX S.   
 You can find the latest version of the tool at https://github.com/l-Guy/salMODEST
+	
 -----------------------------------------------
 salMOnella Download gEnome Serotype sT  
  <b>salMODEST
