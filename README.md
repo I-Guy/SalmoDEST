@@ -1,15 +1,15 @@
-<b>Authors: ILANGO Guy , Cherchame Emeline  
-<b>Version : 1.3  
+Authors: ILANGO Guy , Cherchame Emeline  
+Version : 1.3  
 
-<b>Affiliation: Food Safety Laboratory - ANSES Maisons Alfort (France)
+Affiliation: Food Safety Laboratory - ANSES Maisons Alfort (France)
 
-<b>Credit : Anses ILANGO G., CHERCHAME E., CADEL SIX S.   
-<b>You can find the latest version of the tool at https://github.com/l-Guy/SalmoDEST
+Credit : Anses ILANGO G., CHERCHAME E., CADEL SIX S.   
+You can find the latest version of the tool at https://github.com/l-Guy/SalmoDEST
   
 
 -----------------------------------------------
 Salmonella Download gEnome Serotype sT  
- <b>SalmoDEST
+ SalmoDEST
 -----------------------------------------------
 
 SalmoDEST is made for downloading Salmonella complete genomes or contigs from NCBI. It will apply quality filters and generate a report text file for each filter.
