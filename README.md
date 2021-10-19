@@ -132,7 +132,7 @@ example: Get_HQ_Genome2.py -i myIDslist.txt -m g -f y -api myapikey  # to get co
 
 6- Function named 'Renamer2' moves gbk files to the folder containing fasta files and renames them according to fasta files.
 
-7- Function named "Filter2" generates a text table with the keys (IDs) of all genomes which have a coverage > 50x. It adds to the same table the information about
+7- Function named "Filter2" generates a text table with the keys (IDs) of all genomes which have a coverage > 50x and length > 4Mb. It adds to the same table the information about
  sequencing technology.
 
 8- Function named "GetGFF" downloads gff files.
