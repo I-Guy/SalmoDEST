@@ -8,7 +8,7 @@
   
 
 -----------------------------------------------
-salmonella Download gEnome Serotype sT  
+Salmonella Download gEnome Serotype sT  
  <b>SalmoDEST
 -----------------------------------------------
 
