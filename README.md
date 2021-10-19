@@ -7,8 +7,8 @@
 <b>You can find the latest version of the tool at https://github.com/l-Guy/salMODEST
 
 -----------------------------------------------
-salMOnella Download gEnome Serotype sT  
- <b>salMODEST
+salmonella Download gEnome Serotype sT  
+ <b>salmoDEST
 -----------------------------------------------
 
 salMODEST is made for downloading Salmonella complete genomes or contigs from NCBI. It will apply quality filters and generate a report text file for each filter.
