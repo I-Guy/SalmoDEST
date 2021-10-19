@@ -32,7 +32,7 @@ Python3.5 is used on this pipeline.
  
 You need to register to ncbi to get your api_key (https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/).
 
-
+/!\ if you have more than 250 entries in your input text, please consider splitting the file.
 
 -------------
 Licence
