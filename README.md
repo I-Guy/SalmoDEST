@@ -1,15 +1,15 @@
-<b>Authors: ILANGO Guy , Cherchame Emeline  
-<b>Version : 1.3  
+Authors: ILANGO Guy , Cherchame Emeline  
+Version : 1.3  
 
-<b>Affiliation: Food Safety Laboratory - ANSES Maisons Alfort (France)
+Affiliation: Food Safety Laboratory - ANSES Maisons Alfort (France)
 
-<b>Credit : Anses ILANGO G., CHERCHAME E., CADEL SIX S.   
-<b>You can find the latest version of the tool at https://github.com/l-Guy/salMODEST
+Credit : Anses ILANGO G., CHERCHAME E., CADEL SIX S.   
+You can find the latest version of the tool at https://github.com/l-Guy/salMODEST
   
 
 -----------------------------------------------
 salmonella Download gEnome Serotype sT  
- <b>salmoDEST
+ salmoDEST
 -----------------------------------------------
 
 salMODEST is made for downloading Salmonella complete genomes or contigs from NCBI. It will apply quality filters and generate a report text file for each filter.
@@ -134,7 +134,7 @@ example: Get_HQ_Genome2.py -i myIDslist.txt -m g -f y -api myapikey  # to get co
 
 6- Function named 'Renamer2' moves gbk files to the folder containing fasta files and renames them according to fasta files.
 
-7- Function named "Filter2" generates a text table with the keys (IDs) of all genomes which have a coverage > 50x. It adds to the same table the information about
+7- Function named "Filter2" generates a text table with the keys (IDs) of all genomes which have a coverage > 50x and lenght > 4Mb. It adds to the same table the information about
  sequencing technology.
 
 8- Function named "GetGFF" downloads gff files.
