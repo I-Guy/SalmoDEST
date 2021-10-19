@@ -723,7 +723,7 @@ def Filter2(directory):
                                                     getCoverage = re.search(".+::.+?(\d+).+", li)
                                                     if getCoverage:
                                                         if float(getCoverage.group(1)) > 50 and float(
-                                                                getCoverage.group(1)) < 30000:
+                                                                getCoverage.group(1)) < 4000000:
                                                             DicoCoverage[getAcc.group(0)] = getCoverage.group(1)
                                                 if "Sequencing Technology" in li:
                                                     getSeqTech = re.search(".+::\s(.+)", li)
