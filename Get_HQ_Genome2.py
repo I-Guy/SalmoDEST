@@ -132,7 +132,7 @@ def ReadQuast(directory):
                                     getName = re.search('^Assembly\s+(\w+.+)' ,li)
                                     getcontig = re.search("^#\s+contigs\s+(\d+)" , li )
                                     getn50 = re.search("^N50\s+(\d+)" , li)
-                                    getlength = re.search("^Total\s+length\s+.+1000\sbp\)\s+(\d+)", li)
+                                    getlength = re.search("^Total\slength\s+(\d+)", li)
                                     if getName: 
                                         name = getName.group(1)
                                         print(name)
