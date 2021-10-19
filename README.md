@@ -5,6 +5,7 @@
 
 <b>Credit : Anses ILANGO G., CHERCHAME E., CADEL SIX S.   
 <b>You can find the latest version of the tool at https://github.com/l-Guy/salMODEST
+  
 
 -----------------------------------------------
 salmonella Download gEnome Serotype sT  
