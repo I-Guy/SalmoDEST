@@ -146,6 +146,7 @@ def ReadQuast(directory):
                                                         dicocontig[name] = getcontig.group(1)
                                                     else:
                                                         dicocontig[name].append(getcontig.group(1))
+                                                        
                                             if args.mode == "c":
                                                     if dicocontig[name] is None:
                                                         dicocontig[name] = getcontig.group(1)
@@ -158,11 +159,12 @@ def ReadQuast(directory):
                                             else:
                                                 dicocontig[name].append(getn50.group(1))
                                         if getlength:
+                                            if get.length.group(1) < 4000000:
                                             
-                                            if dicocontig[name] is None:
-                                                dicocontig[name]= getlength.group(1)
-                                            else: 
-                                                dicocontig[name].append(getlength.group(1))
+                                                if dicocontig[name] is None:
+                                                    dicocontig[name]= getlength.group(1)
+                                                else: 
+                                                    dicocontig[name].append(getlength.group(1))
     with open("Genome_HQ_Filter1.tsv","w") as filter1:
         filter1.write("ID\tNb_Contig\tLength\tN50\n")
         for name in dicocontig:
