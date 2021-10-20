@@ -4,8 +4,8 @@ Version : 1.3
 Affiliation: Food Safety Laboratory - ANSES Maisons Alfort (France)
 
 Credit : Anses ILANGO G., CHERCHAME E., CADEL SIX S.   
+
 You can find the latest version of the tool at https://github.com/l-Guy/SalmoDEST
-  
 
 -----------------------------------------------
 SALMOnella Download gEnome Serotype sT  
@@ -13,6 +13,8 @@ SALMOnella Download gEnome Serotype sT
 -----------------------------------------------
 
 SalmoDEST is made for downloading Salmonella complete genomes or contigs from NCBI. It will apply quality filters and generate a report text file for each filter.
+
+
 Get_HQ_Genome_1.py is used to download fasta file from IDs list and rename them.
 Get_HQ_Genome2.py is used to download gbk and gff file from ID list and rename them.
 Please note that : "mlst tseeman" can be easily setup for Salmonella
@@ -39,6 +41,7 @@ You need to register to ncbi to get your api_key (https://ncbiinsights.ncbi.nlm.
 -------------
 Licence
 -------------
+
 SalmoDEST was design and developed within Anses Food Safety Laboratory of Maisons-Alfort (France)
 
 --------------------
