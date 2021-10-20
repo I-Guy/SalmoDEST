@@ -4,15 +4,15 @@ Version : 1.3
 Affiliation: Food Safety Laboratory - ANSES Maisons Alfort (France)
 
 Credit : Anses ILANGO G., CHERCHAME E., CADEL SIX S.   
-You can find the latest version of the tool at https://github.com/l-Guy/salMODEST
+You can find the latest version of the tool at https://github.com/l-Guy/SalmoDEST
   
 
 -----------------------------------------------
-salmonella Download gEnome Serotype sT  
- salmoDEST
+SALMOnella Download gEnome Serotype sT  
+ SalmoDEST
 -----------------------------------------------
 
-salMODEST is made for downloading Salmonella complete genomes or contigs from NCBI. It will apply quality filters and generate a report text file for each filter.
+SalmoDEST is made for downloading Salmonella complete genomes or contigs from NCBI. It will apply quality filters and generate a report text file for each filter.
 Get_HQ_Genome_1.py is used to download fasta file from IDs list and rename them.
 Get_HQ_Genome2.py is used to download gbk and gff file from ID list and rename them.
 Please note that : "mlst tseeman" can be easily setup for Salmonella
@@ -39,7 +39,7 @@ You need to register to ncbi to get your api_key (https://ncbiinsights.ncbi.nlm.
 -------------
 Licence
 -------------
-salMODEST was design and developed within Anses Food Safety Laboratory of Maisons-Alfort (France)
+SalmoDEST was design and developed within Anses Food Safety Laboratory of Maisons-Alfort (France)
 
 --------------------
 Descriptive diagram
@@ -134,7 +134,7 @@ example: Get_HQ_Genome2.py -i myIDslist.txt -m g -f y -api myapikey  # to get co
 
 6- Function named 'Renamer2' moves gbk files to the folder containing fasta files and renames them according to fasta files.
 
-7- Function named "Filter2" generates a text table with the keys (IDs) of all genomes which have a coverage > 50x and lenght > 4Mb. It adds to the same table the information about
+7- Function named "Filter2" generates a text table with the keys (IDs) of all genomes which have a coverage > 50x and length > 4Mb. It adds to the same table the information about
  sequencing technology.
 
 8- Function named "GetGFF" downloads gff files.
