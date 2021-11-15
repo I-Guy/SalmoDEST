@@ -50,7 +50,7 @@ Descriptive diagram
 The list of IDs is given to the first python script, genomes will then be downloaded and then process bu SeqSero and MLSTtseeman.
 The result of these bash processes will be given to the second python script. This script will download genbank and gff, check the quality of genomes and zip all files.
     
-![](./workflow.png)
+![](./Workflow.png)
 -------------
 How it work
 ------------
