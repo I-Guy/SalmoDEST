@@ -158,3 +158,8 @@ Indexation.py
 If the pipeline is run with "-x" option an indexation will be applied on fasta files using bwa and samtools.
 Example : Test_Pipeline.sh -x 
 if not no indexation will be made on fasta files. 
+
+-------------
+Publication
+-------------
+Cherchame, Emeline, Guy Ilango, and Sabrina Cadel-Six. “Retrieving Good-Quality Salmonella Genomes From the GenBank Database Using a Python Tool, SalmoDEST.” Bioinformatics and Biology Insights, (January 2022). https://doi.org/10.1177/11779322221080264.
